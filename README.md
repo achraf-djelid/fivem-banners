@@ -1,2 +1,0 @@
-# fivem-banners
-fivem-banners
